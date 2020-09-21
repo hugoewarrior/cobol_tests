@@ -1,0 +1,1 @@
+Este programita en Cobol, manipula datos en el file 'input.txt'; 
